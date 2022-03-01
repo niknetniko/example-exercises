@@ -13,11 +13,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": -1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           }
                         ],
@@ -32,19 +32,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": -1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 0
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 0
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           }
                         ],
@@ -52,7 +52,7 @@
                       },
                       {
                         "data": 0,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -67,11 +67,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 0
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           }
                         ],
@@ -86,19 +86,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 0
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           }
                         ],
@@ -106,7 +106,7 @@
                       },
                       {
                         "data": 1,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -121,11 +121,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           }
                         ],
@@ -140,19 +140,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 1
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           }
                         ],
@@ -160,7 +160,7 @@
                       },
                       {
                         "data": 2,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -175,11 +175,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           }
                         ],
@@ -194,19 +194,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 2
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           }
                         ],
@@ -214,7 +214,7 @@
                       },
                       {
                         "data": 3,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -229,11 +229,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           }
                         ],
@@ -248,19 +248,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 3
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           }
                         ],
@@ -268,7 +268,7 @@
                       },
                       {
                         "data": 4,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -283,11 +283,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           }
                         ],
@@ -302,19 +302,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 4
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           }
                         ],
@@ -322,7 +322,7 @@
                       },
                       {
                         "data": 5,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -337,11 +337,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           }
                         ],
@@ -356,19 +356,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 5
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           }
                         ],
@@ -376,7 +376,7 @@
                       },
                       {
                         "data": 6,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -391,11 +391,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           }
                         ],
@@ -410,19 +410,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 6
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           }
                         ],
@@ -430,7 +430,7 @@
                       },
                       {
                         "data": 7,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -445,11 +445,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           }
                         ],
@@ -464,19 +464,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 7
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           }
                         ],
@@ -484,7 +484,7 @@
                       },
                       {
                         "data": 8,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -499,11 +499,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           }
                         ],
@@ -518,19 +518,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 8
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           }
                         ],
@@ -538,7 +538,7 @@
                       },
                       {
                         "data": 9,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -553,11 +553,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           }
                         ],
@@ -572,19 +572,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 9
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           }
                         ],
@@ -592,7 +592,7 @@
                       },
                       {
                         "data": 10,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -607,11 +607,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           }
                         ],
@@ -626,19 +626,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 10
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           }
                         ],
@@ -646,7 +646,7 @@
                       },
                       {
                         "data": 11,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -661,11 +661,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           }
                         ],
@@ -680,19 +680,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 11
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           }
                         ],
@@ -700,7 +700,7 @@
                       },
                       {
                         "data": 12,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -715,11 +715,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           }
                         ],
@@ -734,19 +734,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 12
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           }
                         ],
@@ -754,7 +754,7 @@
                       },
                       {
                         "data": 13,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -769,11 +769,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           }
                         ],
@@ -788,19 +788,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 13
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           }
                         ],
@@ -808,7 +808,7 @@
                       },
                       {
                         "data": 14,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -823,11 +823,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           }
                         ],
@@ -842,19 +842,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 14
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           }
                         ],
@@ -862,7 +862,7 @@
                       },
                       {
                         "data": 15,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -877,11 +877,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           }
                         ],
@@ -896,19 +896,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 15
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           }
                         ],
@@ -916,7 +916,7 @@
                       },
                       {
                         "data": 16,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -931,11 +931,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           }
                         ],
@@ -950,19 +950,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 16
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           }
                         ],
@@ -970,7 +970,7 @@
                       },
                       {
                         "data": 17,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -985,11 +985,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           }
                         ],
@@ -1004,19 +1004,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 17
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           }
                         ],
@@ -1024,7 +1024,7 @@
                       },
                       {
                         "data": 18,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1039,11 +1039,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           }
                         ],
@@ -1058,19 +1058,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 18
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           }
                         ],
@@ -1078,7 +1078,7 @@
                       },
                       {
                         "data": 19,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1093,11 +1093,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           }
                         ],
@@ -1112,19 +1112,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 19
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           }
                         ],
@@ -1132,7 +1132,7 @@
                       },
                       {
                         "data": 20,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1147,11 +1147,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           }
                         ],
@@ -1166,19 +1166,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 20
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           }
                         ],
@@ -1186,7 +1186,7 @@
                       },
                       {
                         "data": 21,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1201,11 +1201,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           }
                         ],
@@ -1220,19 +1220,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 21
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           }
                         ],
@@ -1240,7 +1240,7 @@
                       },
                       {
                         "data": 22,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1255,11 +1255,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           }
                         ],
@@ -1274,19 +1274,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 22
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           }
                         ],
@@ -1294,7 +1294,7 @@
                       },
                       {
                         "data": 23,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1309,11 +1309,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           }
                         ],
@@ -1328,19 +1328,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 23
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           }
                         ],
@@ -1348,7 +1348,7 @@
                       },
                       {
                         "data": 24,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1363,11 +1363,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           }
                         ],
@@ -1382,19 +1382,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 24
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           }
                         ],
@@ -1402,7 +1402,7 @@
                       },
                       {
                         "data": 25,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1417,11 +1417,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           }
                         ],
@@ -1436,19 +1436,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 25
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           }
                         ],
@@ -1456,7 +1456,7 @@
                       },
                       {
                         "data": 26,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1471,11 +1471,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           }
                         ],
@@ -1490,19 +1490,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 26
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           }
                         ],
@@ -1510,7 +1510,7 @@
                       },
                       {
                         "data": 27,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1525,11 +1525,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           }
                         ],
@@ -1544,19 +1544,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 27
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           }
                         ],
@@ -1564,7 +1564,7 @@
                       },
                       {
                         "data": 28,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1579,11 +1579,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           }
                         ],
@@ -1598,19 +1598,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 28
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           }
                         ],
@@ -1618,7 +1618,7 @@
                       },
                       {
                         "data": 29,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1633,11 +1633,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           }
                         ],
@@ -1652,19 +1652,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 29
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           }
                         ],
@@ -1672,7 +1672,7 @@
                       },
                       {
                         "data": 30,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1687,11 +1687,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           }
                         ],
@@ -1706,19 +1706,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 30
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           }
                         ],
@@ -1726,7 +1726,7 @@
                       },
                       {
                         "data": 31,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1741,11 +1741,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           }
                         ],
@@ -1760,19 +1760,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 31
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           }
                         ],
@@ -1780,7 +1780,7 @@
                       },
                       {
                         "data": 32,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1795,11 +1795,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           }
                         ],
@@ -1814,19 +1814,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 32
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           }
                         ],
@@ -1834,7 +1834,7 @@
                       },
                       {
                         "data": 33,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1849,11 +1849,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           }
                         ],
@@ -1868,19 +1868,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 33
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           }
                         ],
@@ -1888,7 +1888,7 @@
                       },
                       {
                         "data": 34,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1903,11 +1903,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           }
                         ],
@@ -1922,19 +1922,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 34
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           }
                         ],
@@ -1942,7 +1942,7 @@
                       },
                       {
                         "data": 35,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -1957,11 +1957,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           }
                         ],
@@ -1976,19 +1976,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 35
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           }
                         ],
@@ -1996,7 +1996,7 @@
                       },
                       {
                         "data": 36,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2011,11 +2011,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           }
                         ],
@@ -2030,19 +2030,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 36
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           }
                         ],
@@ -2050,7 +2050,7 @@
                       },
                       {
                         "data": 37,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2065,11 +2065,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           }
                         ],
@@ -2084,19 +2084,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 37
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           }
                         ],
@@ -2104,7 +2104,7 @@
                       },
                       {
                         "data": 38,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2119,11 +2119,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           }
                         ],
@@ -2138,19 +2138,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 38
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           }
                         ],
@@ -2158,7 +2158,7 @@
                       },
                       {
                         "data": 39,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2173,11 +2173,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           }
                         ],
@@ -2192,19 +2192,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 39
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           }
                         ],
@@ -2212,7 +2212,7 @@
                       },
                       {
                         "data": 40,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2227,11 +2227,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           }
                         ],
@@ -2246,19 +2246,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 40
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           }
                         ],
@@ -2266,7 +2266,7 @@
                       },
                       {
                         "data": 41,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2281,11 +2281,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           }
                         ],
@@ -2300,19 +2300,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 41
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           }
                         ],
@@ -2320,7 +2320,7 @@
                       },
                       {
                         "data": 42,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2335,11 +2335,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           }
                         ],
@@ -2354,19 +2354,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 42
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           }
                         ],
@@ -2374,7 +2374,7 @@
                       },
                       {
                         "data": 43,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2389,11 +2389,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           }
                         ],
@@ -2408,19 +2408,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 43
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           }
                         ],
@@ -2428,7 +2428,7 @@
                       },
                       {
                         "data": 44,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2443,11 +2443,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           }
                         ],
@@ -2462,19 +2462,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 44
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           }
                         ],
@@ -2482,7 +2482,7 @@
                       },
                       {
                         "data": 45,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2497,11 +2497,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           }
                         ],
@@ -2516,19 +2516,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 45
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           }
                         ],
@@ -2536,7 +2536,7 @@
                       },
                       {
                         "data": 46,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2551,11 +2551,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           }
                         ],
@@ -2570,19 +2570,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 46
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           }
                         ],
@@ -2590,7 +2590,7 @@
                       },
                       {
                         "data": 47,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2605,11 +2605,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 49
                           }
                         ],
@@ -2624,19 +2624,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 47
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 49
                           }
                         ],
@@ -2644,7 +2644,7 @@
                       },
                       {
                         "data": 48,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }
@@ -2659,11 +2659,11 @@
                       "value": {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 50
                           }
                         ],
@@ -2678,19 +2678,19 @@
                       {
                         "data": [
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 48
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 49
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 49
                           },
                           {
-                            "type": "number",
+                            "type": "integer",
                             "data": 50
                           }
                         ],
@@ -2698,7 +2698,7 @@
                       },
                       {
                         "data": 49,
-                        "type": "number"
+                        "type": "integer"
                       }
                     ]
                   }

@@ -8,7 +8,7 @@
   },
   "evaluation": {
     "memory_limit": 500000000,
-    "plan_name": "one.tson",
+    "plan_name": "full.tson",
     "handler": "TESTed"
   },
   "programming_language": "python",
