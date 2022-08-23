@@ -1,0 +1,16 @@
+{
+  "description": {
+    "difficulty": 0.5,
+    "names": {
+      "en": "Syntax check",
+      "nl": "Syntax check"
+    }
+  },
+  "evaluation": {
+    "memory_limit": 500000000,
+    "plan_name": "empty.tson",
+    "handler": "TESTed"
+  },
+  "programming_language": "javascript",
+  "access": "private"
+}
