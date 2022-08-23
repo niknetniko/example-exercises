@@ -9,8 +9,14 @@
   "evaluation": {
     "memory_limit": 500000000,
     "plan_name": "empty.tson",
-    "handler": "TESTed"
+    "handler": "TESTed",
+    "options": {
+      "allow_fallback": false
+    }
   },
   "programming_language": "javascript",
-  "access": "private"
+  "access": "private",
+  "labels": [
+
+  ]
 }
