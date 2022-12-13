@@ -1,0 +1,17 @@
+{
+  "description": {
+    "difficulty": 0.5,
+    "names": {
+      "en": "Writing exercise: AI",
+      "nl": "Schrijfopdracht: AI"
+    }
+  },
+  "evaluation": {
+    "handler": "markdown"
+  },
+  "programming_language": "markdown",
+  "access": "public",
+  "labels": [
+
+  ]
+}
