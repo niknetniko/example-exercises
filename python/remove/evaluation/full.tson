@@ -16,19 +16,19 @@
                       "data": [
                         {
                           "type": "integer",
-                          "data": -1
-                        },
-                        {
-                          "type": "integer",
-                          "data": 0
-                        },
-                        {
-                          "type": "integer",
-                          "data": 0
-                        },
-                        {
-                          "type": "integer",
                           "data": 1
+                        },
+                        {
+                          "type": "integer",
+                          "data": 2
+                        },
+                        {
+                          "type": "integer",
+                          "data": 3
+                        },
+                        {
+                          "type": "integer",
+                          "data": 2
                         }
                       ]
                     }
@@ -41,11 +41,11 @@
                         "data": [
                           {
                             "type": "integer",
-                            "data": -1
+                            "data": 1
                           },
                           {
                             "type": "integer",
-                            "data": 1
+                            "data": 3
                           }
                         ],
                         "type": "sequence"
@@ -58,7 +58,7 @@
                     "arguments": [
                       "a_list",
                       {
-                        "data": 0,
+                        "data": 2,
                         "type": "integer"
                       }
                     ]
