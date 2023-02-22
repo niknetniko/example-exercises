@@ -54,7 +54,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -115,7 +115,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -176,7 +176,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -237,7 +237,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -298,7 +298,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -359,7 +359,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -420,7 +420,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -481,7 +481,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -542,7 +542,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -603,7 +603,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -664,7 +664,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -725,7 +725,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -786,7 +786,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -847,7 +847,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -908,7 +908,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -969,7 +969,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1030,7 +1030,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1091,7 +1091,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1152,7 +1152,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1213,7 +1213,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1274,7 +1274,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1335,7 +1335,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1396,7 +1396,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1457,7 +1457,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1518,7 +1518,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1579,7 +1579,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1640,7 +1640,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1701,7 +1701,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1762,7 +1762,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1823,7 +1823,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1884,7 +1884,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -1945,7 +1945,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2006,7 +2006,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2067,7 +2067,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2128,7 +2128,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2189,7 +2189,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2250,7 +2250,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2311,7 +2311,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2372,7 +2372,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2433,7 +2433,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2494,7 +2494,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2555,7 +2555,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2616,7 +2616,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2677,7 +2677,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2738,7 +2738,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2799,7 +2799,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2860,7 +2860,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2921,7 +2921,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -2982,7 +2982,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
@@ -3043,7 +3043,7 @@
                   },
                   "input": {
                     "type": "function",
-                    "name": "remove",
+                    "name": "remove_all_occurrences",
                     "arguments": [
                       "a_list",
                       {
