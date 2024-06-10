@@ -8,33 +8,6 @@
             {
               "testcases": [
                 {
-                  "input": {
-                    "variable": "a_list",
-                    "type": "sequence",
-                    "expression": {
-                      "type": "sequence",
-                      "data": [
-                        {
-                          "type": "integer",
-                          "data": 1
-                        },
-                        {
-                          "type": "integer",
-                          "data": 2
-                        },
-                        {
-                          "type": "integer",
-                          "data": 3
-                        },
-                        {
-                          "type": "integer",
-                          "data": 2
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
                   "output": {
                     "result": {
                       "value": {
@@ -56,7 +29,27 @@
                     "type": "function",
                     "name": "remove_all_occurrences",
                     "arguments": [
-                      "a_list",
+                      {
+                      "type": "sequence",
+                      "data": [
+                        {
+                          "type": "integer",
+                          "data": 1
+                        },
+                        {
+                          "type": "integer",
+                          "data": 2
+                        },
+                        {
+                          "type": "integer",
+                          "data": 3
+                        },
+                        {
+                          "type": "integer",
+                          "data": 2
+                        }
+                      ]
+                    },
                       {
                         "data": 2,
                         "type": "integer"
